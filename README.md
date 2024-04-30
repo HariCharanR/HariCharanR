@@ -1,4 +1,4 @@
-# 👨‍💻 Embedded Systems & Software Developer | Firmware Enthusiast 🛠️
+# 👨‍💻 Embedded Systems & Software Developer | Cloud Enthusiast 🛠️
 
 Welcome to my GitHub profile! I'm passionate about embedded systems and software development, with a keen focus on optimizing code for constrained environments. Currently pursuing my undergraduate degree in Electrical and Electronics Engineering, I'm constantly honing my skills in firmware development and hardware-software integration.
 
